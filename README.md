@@ -1,24 +1,15 @@
-![image](https://github.com/anushkadeshpande/electron-react-starter/assets/53345232/a1dc97cd-1573-47e6-8609-b124eebd59d4)
+![image](https://github.com/anushkadeshpande/electron-react-starter/assets/53345232/8e2c2365-3a8d-49e4-8178-050a4a8d60d9)
+
+### `npm i`
+
+To install all dependencies
 
 ### `npm run dev`
 
 Runs the app in development mode as an exe
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `electron-packager . <name-of-exe> --platform=win32 --arch=x64`
-
-To build the executable for the electron app
+Builds the app for production.\
+The installer exe can be found in /release directory \
+The application exe is located in /release/win-unpacked directory
