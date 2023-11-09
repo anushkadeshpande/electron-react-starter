@@ -1,3 +1,9 @@
+![image](https://github.com/anushkadeshpande/electron-react-starter/assets/53345232/a1dc97cd-1573-47e6-8609-b124eebd59d4)
+
+### `npm run dev`
+
+Runs the app in development mode as an exe
+
 ### `npm start`
 
 Runs the app in the development mode.\
